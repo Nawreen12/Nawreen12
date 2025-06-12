@@ -1,16 +1,49 @@
 ## Hi there 👋
+Hi, I’m Nawreen, a passionate newcomer to the data world with a strong interest in building a career as a Data Analyst. I’m driven by curiosity, problem-solving, and the desire to turn data into meaningful insights. I enjoy working with tools like SQL, Excel, Power BI, and Tableau to uncover trends and support data-driven decisions.
 
-<!--
-**Nawreen12/Nawreen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Key Skills:
+# 🔧 Technical Skills:
+# Data Analysis & Tools:
+• SQL (SQL Server, MySQL) • Microsoft Excel (Pivot Tables, VLOOKUP, Conditional Formatting, Dashboard,Macro,Power query) • SPSS • Microsoft Access
 
-Here are some ideas to get you started:
+# Data Visualization:
+• Tableau • Microsoft Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Microsoft Office Suite:
+• Word • PowerPoint • Access
+
+# Design & Web Technologies:
+• HTML • CSS • JavaScript • jQuery • Adobe Photoshop • Adobe Illustrator • Canva
+
+# 🧠 Soft Skills
+• Analytical & Research Skills
+
+• Strong Communication & Teaching Abilities
+
+• Decision Making & Problem Solving
+
+• Quick Learning & Adaptability
+
+• Time Management & Organizational Skills
+
+• Team Collaboration & Leadership
+
+• Professional Ethics & Administrative Competence
+
+• Mental Support & Focus on Quality, Health, Safety, and Environment (QHSE)
+
+🔥 Passionate About Working With:
+• SQL • Excel • Power BI • Tableau • SPSS • WordPress • Design Tools (Photoshop, Illustrator, Canva)
+# 🔭 I’m currently working on :
+   Some Data Analysis Projects.
+   # 🔭 I’m currently Learning 
+   Python, AI tools (Pixverse, CapCut), Adobe Indesign 
+
+# 📬 Contact Me
+# Email:
+nawreen11@gmail.com
+
+# LinkedIn:
+https://www.linkedin.com/in/nawreen-afaz-chaity/
+
+
