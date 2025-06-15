@@ -2,7 +2,7 @@
 Hi, I’m Nawreen, a passionate newcomer to the data world with a strong interest in building a career as a Data Analyst. I’m driven by curiosity, problem-solving, and the desire to turn data into meaningful insights. I enjoy working with tools like SQL, Excel, Power BI, and Tableau to uncover trends and support data-driven decisions.
 
 # Key Skills:
-# 🔧 Technical Skills:
+# 💻 Technical Skills:
 # Data Analysis & Tools:
 • SQL (SQL Server, MySQL) • Microsoft Excel (Pivot Tables, VLOOKUP, Conditional Formatting, Dashboard,Macro,Power query) • SPSS • Microsoft Access
 
